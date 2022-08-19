@@ -37,8 +37,9 @@
   
   ## Acknowledgments
   This project was one of my homework assignments from the fullstack bootcamp provided by Trilogy Education.
-  * I used [Font Awesome](https://fontawesome.com/) for the icons, which is free and open-source.
-  * For a framework, I used [Bootstrap](https://getbootstrap.com/), which is also free and open-source. 
+  I was given starter code for both the HTML and CSS. My assignment was to build out the JS portion of the application.
+  * It uses [Font Awesome](https://fontawesome.com/) for the icons, which is free and open-source.
+  * For a framework, it uses [Bootstrap](https://getbootstrap.com/), which is also free and open-source. 
   * To deal with the date and time aspect, I used the popular [Moment.js](https://momentjs.com/), which is (you guessed it) free, and open-source.
   * As always, [MDN Web Docs](https://developer.mozilla.org/en-US/), [W3Schools](https://www.w3schools.com/), and [Stack Overflow](https://stackoverflow.com/) contained a wealth of information that helped me learn while I worked on this assignment.
   
